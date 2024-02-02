@@ -86,5 +86,7 @@ print(f"Paraphrased Summary:\n{paraphrased_summary}")
 # In[ ]:
 
 
+#Use this key for running the code = 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     beacuse OpenAi is disabled the above key under! 
+
 
 
